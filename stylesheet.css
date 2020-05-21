@@ -2,7 +2,11 @@
   box-sizing: border-box;
 }
 
-.h1{
+header.h1{
   font-size:120px;
   color:yellow;
 }
+
+header{
+  background-color:blue;
+};
